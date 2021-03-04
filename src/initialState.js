@@ -1,0 +1,50 @@
+const initialState = [
+   {
+      'id': 22,
+      'customer': 'custom customer',
+      'status': 'Processing',
+      'actual': 999,
+      'type': 'company',
+      'createDate': '1',
+      'closeDate': '2',
+      'country': 'United Kingdom',
+   }, {
+      'id': 2,
+      'customer': '2custom customer',
+      'status': 'Processing',
+      'actual': 500,
+      'type': 'company',
+      'createDate': '1',
+      'closeDate': '2',
+      'country': 'Ukraine',
+   }, {
+      'id': 66,
+      'customer': '2custom customer',
+      'status': 'Processing',
+      'actual': 1000,
+      'type': 'company',
+      'createDate': '1',
+      'closeDate': '2',
+      'country': 'USA',
+   }, {
+      'id': 3,
+      'customer': '3custom customer',
+      'status': 'Paid',
+      'actual': 10500,
+      'type': 'company',
+      'createDate': '1',
+      'closeDate': '2',
+      'country': 'Ukraine',
+   }, {
+      'id': 33,
+      'customer': '3custom customer',
+      'status': 'Canceled',
+      'actual': 10500,
+      'type': 'company',
+      'createDate': '1',
+      'closeDate': '2',
+      'country': 'Ukraine',
+   },
+]
+
+export default initialState

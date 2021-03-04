@@ -1,0 +1,15 @@
+.custom-table {
+    background-color: #fcfcfc;
+    border: 1px solid #d8dbe0;
+    border-radius: 20px;
+    min-width: 800px;
+}
+.custom-table td {
+    padding: 14px;
+    text-align: center;
+}
+
+.custom-table th {
+    vertical-align: top;
+    padding: 14px;
+}

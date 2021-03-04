@@ -1,0 +1,29 @@
+.app-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+}
+
+.status-processing {
+  background-color: #f6e785;
+  border: 1px solid #bf7f48;
+  color: #bf7f48;;
+  border-radius: 4px;
+  padding: 3px 6px;
+}
+
+.status-paid {
+  background-color: #c0e5b0;
+  border: 1px solid #5ca747;
+  color: #5ca747;;
+  border-radius: 4px;
+  padding: 3px 30px;
+}
+
+.status-canceled {
+  background-color: #e5b0b0;
+  border: 1px solid #a74747;
+  color: #a74747;;
+  border-radius: 4px;
+  padding: 3px 13px;
+}
